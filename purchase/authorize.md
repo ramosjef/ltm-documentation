@@ -61,7 +61,7 @@ Favor informar um dado resumido, porém um pouco detalhado do item que está sen
 
 #### Quantity
 
-Mais de um item da mesma clasificação poderá ser informado nesse campo.
+Mais de um item da mesma classificação poderá ser informado nesse campo.
 
 #### Category
 

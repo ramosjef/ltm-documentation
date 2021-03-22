@@ -106,6 +106,8 @@ A api do **LTM CloudLoyalty** foi desenvolvida baseada em padrões [**REST**](ht
   - [Confirmação de débito](/purchase/confirm.md)
   - [Cancelamento de débito](/purchase/cancel.md)
   - Consultar pedidos
+  
+- [Autorização de compra em dinheiro](/purchase/authorize-cash.md)
 
 ## Estorno de pedido
 - [Introdução](reversal/readme.md) 
